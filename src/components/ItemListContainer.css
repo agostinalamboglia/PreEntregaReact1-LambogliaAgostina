@@ -1,0 +1,9 @@
+
+.ItemListContainer{
+    font-weight: "bold";
+    font-size: "2rem";
+    width: "100vh";
+    height: "50vh";
+    text-align: "center";
+    color: red;
+}
